@@ -1,11 +1,14 @@
-# deco7350-Shao
+# DECO7350-Shao
 
-#### Conference paper and Video
+#### Conference paper
 
+![Conference paper](/Poster.png)
+
+#### Promotional Video
 https://youtu.be/LRwUXv4MULc
 
-#### Link to High Fidelity Prototype:
-https://homemeals.uqcloud.net/index.php?user_id=1 <br>
+### High Fidelity Prototype:
+Link: https://homemeals.uqcloud.net/index.php?user_id=1 <br>
 View on a mobile phone or in “Inspect” mobile view (Ctrl + Shift + I)
 
 #### Instructions for use:
